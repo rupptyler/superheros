@@ -1,0 +1,83 @@
+h1
+{
+	font-family: cooper black;
+	font-size: 100px;
+	color: orange;
+	text-align: center;
+	margin: 25px;
+	border: 10px dotted white;
+	
+}
+
+p
+{
+	background-color: black;
+	color: white;
+	width: 800px;
+	padding: 20px;
+	margin: 10px auto;
+	border: 10px groove white;
+	text-align: justify;
+
+}
+
+p.batman
+{
+	border: 15px double yellow;
+	padding: 25px;
+	background-color: black;
+	font-family: cooper black;
+	font-size: 25px;
+
+}
+
+
+p.wonderwoman
+{
+	border: 15px ridge #CC9933;
+	padding: 25px;
+	background-color:blue;
+	font-family: "Century Gothic";
+	color: white;
+	font-size: 20px;
+}
+
+p.superman
+{
+	border: 15px dotted #000099;
+	padding: 25px;
+	background-color: #CC0000;
+	font-family: tahoma;
+	color: white;
+	font-size: 20px;
+}
+
+p.spiderman
+{
+	border: 15px solid black;
+	padding: 25px;
+	background-color: black;
+	font-family: ariel black;
+	color: red;
+	font-size: 20px;
+}
+
+p.ironman
+{
+	border: 15px groove maroon;
+	padding: 25px;
+	background-color:#FFCC00;
+	font-family: stencil;
+	color: maroon;
+	font-size: 20px;
+}
+
+p.thor
+{
+	border: 15px solid #0099FF;
+	padding: 25px;
+	background-color: blue;
+	font-family: Calibri;
+	color: white;
+	font-size: 20px;
+}
